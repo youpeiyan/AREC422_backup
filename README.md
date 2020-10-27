@@ -1,0 +1,2 @@
+# AREC422_backup
+The copy of course notes for AREC422 (Econometric Analysis in Agricultural and Environmental Economics, University of Maryland). This course offers a hands-on introduction to econometrics. We will explore the linear regression model from the ground up by analyzing real-world datasets and learning how to distinguish causation from correlation. Students will gain practical experience using econometrics to address important questions in agricultural economics and environmental economics.
